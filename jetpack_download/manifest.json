@@ -1,0 +1,79 @@
+{
+    "manifest": {
+        "name": "JetPack L4T", 
+        "portfolio": [
+            {
+                "name": "JetPack L4T", 
+                "version": "4.1.1", 
+                "url": "https://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/4.1.1/xddsn.im/JetPackL4T_4.1.1_b57/jetpack.json", 
+                "installerMin": "4.1.1"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "4.1", 
+                "url": "https://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/4.1/walpdzz/JetPackL4T_4.1_b5/jetpack.json", 
+                "installerMin": "4.1"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "3.3", 
+                "url": "https://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/3.3/lw.xd42/JetPackL4T_33_b39/jetpack.json", 
+                "installerMin": "3.3"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "3.2.1", 
+                "url":"https://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/3.2.1/m8u2ki/JetPackL4T_321_b23/jetpack.json", 
+                "installerMin": "3.2.1"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "3.1", 
+                "url": "http://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/013/json/jetpack-l4t-devzone.json", 
+                "installerMin": "3.1"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "3.0", 
+                "url": "http://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/011/json/jetpack-l4t-devzone.json", 
+                "installerMin": "3.0"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "2.3.1", 
+                "url": "http://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/010/json/jetpack-l4t-devzone.json", 
+                "installerMin": "2.3"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "2.3", 
+                "url": "http://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/008/json/jetpack-l4t-devzone.json", 
+                "installerMin": "2.3"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "2.2.1", 
+                "url": "http://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/005/json/jetpack-l4t-devzone.json", 
+                "installerMin": "2.2.1"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "2.2", 
+                "url": "http://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/004/json/jetpack-l4t-devzone.json", 
+                "installerMin": "2.2"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "2.1", 
+                "url": "http://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/002/json/jetpack-l4t-devzone.json", 
+                "installerMin": "2.1"
+            }, 
+            {
+                "name": "JetPack L4T", 
+                "version": "2.0", 
+                "url": "http://developer.download.nvidia.com/devzone/devcenter/mobile/jetpack_l4t/001/json/jetpack-l4t-devzone.json", 
+                "installerMin": "1.0"
+            }
+        ]
+    }
+}
